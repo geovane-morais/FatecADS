@@ -1,7 +1,8 @@
 # FATEC ADS
 ## Conteúdos:
-### codigos em c:
-> Diretorio "[LinguagemDeProgramacao](LinguagemDeProgramacao)"
+### codigos:
+> Matérias 2° Semestre
+>> "[LinguagemDeProgramacao](LinguagemDeProgramacao)"
 ------
 > Primeiros treinos com GIT/GITHUB
 ------
