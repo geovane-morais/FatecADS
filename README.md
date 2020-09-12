@@ -1,5 +1,4 @@
 # FATEC ADS
-------
 ## Conteúdos:
 ### codigos em c:
 > Diretorio "[LinguagemDeProgramacao](LinguagemDeProgramacao)"
