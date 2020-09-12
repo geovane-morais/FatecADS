@@ -3,5 +3,5 @@
 > Matérias 2° Semestre
 >> [LinguagemDeProgramacao](LinguagemDeProgramacao)
 ------
-> Primeiros treinos com GIT/GITHUB
-------
+
+> OBS: Treinando GERENCIAMENTO DE SOFTWARE com GIT/GITHUB
