@@ -3,5 +3,5 @@
 ### codigos em c:
 > Diretorio "[LinguagemDeProgramacao](LinguagemDeProgramacao)"
 ------
-> Primeiros treinos com git/github
+> Primeiros treinos com GIT/GITHUB
 ------
