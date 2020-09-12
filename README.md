@@ -1,4 +1,4 @@
 # FATEC ADS
-## Codigos desenvolvidos nas aulas da faculdade:
-> Diretorio "[LinguagemDeProgramacao](LinguagemDeProgramacao)" Tem codigos desenvolvidos na linguagem C
+## Codigos desenvolvidos nas aulas da faculdade em C:
+> Diretorio "[LinguagemDeProgramacao](LinguagemDeProgramacao)"
 ## Primeiros treinos com git/github
