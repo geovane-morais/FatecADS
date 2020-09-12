@@ -1,10 +1,10 @@
 # FATEC ADS
 ## Códigos:
-> Matérias/Projetos 1° Semestre
->> [Projeto Integrador](/Calculadora/main.c)
+>  1° Semestre
+>> Projeto [Integrador](/sCalculadora/main.c)
 ------
-> Matérias/Projetos 2° Semestre
->> [LinguagemDeProgramacao](LinguagemDeProgramacao)
+>  2° Semestre
+>> Matéria [LinguagemDeProgramacao](LinguagemDeProgramacao)
 ------
 
 > OBS: Treinando GERENCIAMENTO DE SOFTWARE com GIT/GITHUB
