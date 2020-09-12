@@ -2,6 +2,13 @@
 #include <stdlib.h>
 #include <string.h>
 
+/*
+ * Autores: Geovane Morais
+ *	    Lucas Garcia
+ *	    Lucas Pires
+ *	    Willian Mazzeto
+ */
+
 void LimparTela(){//define a systema operacional
   #ifdef _WIN32
   system("cls");
@@ -11,6 +18,7 @@ void LimparTela(){//define a systema operacional
   system("clear");
   #endif
 }
+
 int RealizarNovamente(){
     int x,y;
     printf("   NAO = 0 / SIM = 1\n");
