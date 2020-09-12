@@ -1,8 +1,7 @@
 # FATEC ADS
-## Conteúdos:
-### codigos:
+## Códigos:
 > Matérias 2° Semestre
->> "[LinguagemDeProgramacao](LinguagemDeProgramacao)"
+>> [LinguagemDeProgramacao](LinguagemDeProgramacao)
 ------
 > Primeiros treinos com GIT/GITHUB
 ------
