@@ -41,7 +41,7 @@ void ex2(){
     }
     printf("\n");
     for(int i = 9;i>=0;i--)
-        printf("O valor da %d posicao eh: %d\n\n", i+1, B[i]);
+        printf("O valor da %d posicao eh: %d\n", i+1, B[i]);
 }
 
 void ex3(){
@@ -405,22 +405,64 @@ void ex15(){
 }
 
 int main(){
+    int expression;
     
-    ex1();
-    ex2();
-    ex3();
-    ex4();
-    ex5();
-    ex6();
-    ex7();
-    ex8();
-    ex9();
-    ex10();
-    ex11(); //não funcionou
-    ex12();
-    ex13();
-    ex14();
-    ex15();
+    while(1){
+        printf("\ninforme o exercicio:");
+        scanf("%d", &expression);
+
+        switch (expression)
+        {
+            case 1:
+                ex1();    
+            break;
+            case 2:
+                ex2();   
+            break;
+            case 3:
+                ex3();    
+            break;
+            case 4:
+                ex4();   
+            break;
+            case 5:
+                ex5();   
+            break;
+            case 6:
+                ex5();   
+            break;
+            case 7:
+                ex7();   
+            break;
+            case 8:
+                ex8();   
+            break;
+            case 9:
+                ex9();   
+            break;
+            case 10:
+                ex10;   
+            break;
+            case 11:
+                ex11();   
+            break;
+            case 12:
+                ex12();   
+            break;
+            case 13:
+                ex13();   
+            break;
+            case 14:
+                ex14();   
+            break;
+            case 15:
+                ex15();   
+            break;
+            default:
+                printf("\n\n***ERROR***\n\n");
+            break;
+        }
+    }
 
     return 0;
 }
