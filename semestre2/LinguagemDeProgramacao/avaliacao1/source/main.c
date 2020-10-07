@@ -221,55 +221,49 @@ void ex10(){
 }
 
 void ex11(){
-    int v1, v2, ia=0, ib=0;
-    float tam1 = 0, tam2 = 0;
-    bool saber = false, saber2 = true;
+    int v1, v2, ia=0, ib=0, contador = 0, i;
     int cont10a = 0, cont10b = 0;
     int aux1 =0, aux2=0, aux1ini = 0, aux2ini=0;
+    float tam1 = 0, tam2 = 0;
+    bool saber = false, saber2 = true;
+    char va[(int)tam1], vb[(int)tam2];
 
     while(v1 > 10000 || v2 > 10000){
-        printf("Entre com um numero: \n");
+        printf("Entre com um numero: ");
         scanf("%d", &v1);
-        printf("Entre com um numero: \n");
+        printf("Entre com um numero: ");
         scanf("%d", &v2);
     }
 
     aux1ini = v1;
     aux2ini = v2;
 
-    while(aux1ini % 10 == 0){
-        aux1ini = aux1ini / 10;
-        cont10a++;
-        saber = true;
-    }
     while(aux2ini % 10 == 0){
         aux2ini = aux2ini / 10;
         cont10b++;
         saber2 = true;
+    }
+    while(aux1ini % 10 == 0){
+        aux1ini = aux1ini / 10;
+        cont10a++;
+        saber = true;
     }
 
     v1 = aux1ini;
     v2 = aux2ini;
 
     if (aux1ini == 0) tam1 = 1;
-    else    while (v1 != 0)
-    {
+    else    while (v1 != 0){
         tam1 = tam1 + 1;
         v1 = v1 / 10;
     }
     
     if (aux1ini == 0) tam2 = 1;
-    else    while (v2 != 0)
-    {
+    else    while (v2 != 0){
         tam2 = tam2 + 1;
         v2 = v2 / 10;
     }
-
-    char va[(int)tam1], vb[(int)tam2];
-    int i;
-
-    int contador = 0;
-    //atirbui e ordena A
+  
     while (aux1ini > 0){
         va[contador] = aux1ini%10;
         aux1ini = aux1ini/10;
@@ -280,7 +274,7 @@ void ex11(){
         va[1] = va[2];
         va[2] = aux1;
     }
-    //atirbui e ordena B
+   
     contador =0;
     while (aux2ini > 0){
         vb[contador] = aux2ini%10;
