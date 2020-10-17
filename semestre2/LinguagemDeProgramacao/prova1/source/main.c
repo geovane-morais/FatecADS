@@ -27,15 +27,15 @@ int main(void) {
         printf("\nresultado das divisoes:%f\n\n",resultado);
     */
 
-   /*Soma dos numeros impares so pode digitar 100 numeros]
-   float numero = 0,resultado = 0;
-   for(int v=0;v<100;v++){
-       printf("informe um numero:");
-       scanf(" %f", &numero);
-       if((int)numero%2 == 1) resultado += numero;
-       if (numero == 0) break;
-   }
-   printf("soma dos impares eh:%.0f\n",resultado);
+    /*Soma dos numeros impares so pode digitar 100 numeros]
+        float numero = 0,resultado = 0;
+        for(int v=0;v<100;v++){
+            printf("informe um numero:");
+            scanf(" %f", &numero);
+            if((int)numero%2 == 1) resultado += numero;
+            if (numero == 0) break;
+        }
+        printf("soma dos impares eh:%.0f\n",resultado);
    */
 
     return (0);
