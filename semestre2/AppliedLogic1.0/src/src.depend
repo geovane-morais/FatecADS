@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1605910816 source:c:\users\geovane\downloads\src\derivada.c
+	"bibliotecaPessoal.h"
+
+1605910999 c:\users\geovane\downloads\src\bibliotecapessoal.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<locale.h>
+
+1605910850 source:c:\users\geovane\downloads\src\funcaoextra.c
+	"bibliotecaPessoal.h"
+
+1605910866 source:c:\users\geovane\downloads\src\integral.c
+	"bibliotecaPessoal.h"
+
+1605910891 source:c:\users\geovane\downloads\src\main.c
+	"bibliotecaPessoal.h"
+
+1605910923 source:c:\users\geovane\downloads\src\matriz.c
+	"bibliotecaPessoal.h"
+
+1605910985 source:c:\users\geovane\downloads\src\ordenar.c
+	"bibliotecaPessoal.h"
+

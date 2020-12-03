@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1606005606 source:c:\users\geovane\downloads\problemas\funcaextra.c
+	"cabec.h"
+
+1606006247 c:\users\geovane\downloads\problemas\cabec.h
+	"cabec.h"
+	<stdio.h>
+	<stdlib.h>
+
+1606005572 source:c:\users\geovane\downloads\problemas\problema1.c
+	"cabec.h"
+
+1606006166 source:c:\users\geovane\downloads\problemas\problema2.c
+	"cabec.h"
+
+1606006165 source:c:\users\geovane\downloads\problemas\problema3.c
+	"cabec.h"
+
+1606006167 source:c:\users\geovane\downloads\problemas\problema4.c
+	"cabec.h"
+
+1606006825 source:c:\users\geovane\downloads\problemas\main.c
+	"cabec.h"
+
+1605988166 source:c:\users\geovane\downloads\programa4.0\problemas\problema2.c
+	"cabec.h"
+
+1606765336 c:\users\geovane\downloads\programa4.0\problemas\cabec.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+
+1605988164 source:c:\users\geovane\downloads\programa4.0\problemas\problema3.c
+	"cabec.h"
+
+1606759978 source:c:\users\geovane\downloads\programa4.0\problemas\funcaextra.c
+	"cabec.h"
+
+1606764238 source:c:\users\geovane\downloads\programa4.0\problemas\main.c
+	"cabec.h"
+
+1606765950 source:c:\users\geovane\downloads\programa4.0\problemas\problema1.c
+	"cabec.h"
+
+1606765386 source:c:\users\geovane\downloads\programa4.0\problemas\problema4.c
+	"cabec.h"
+
+1606723978 source:c:\users\lucas\downloads\programa5.0\problemas\funcaextra.c
+	"cabec.h"
+
+1606729336 c:\users\lucas\downloads\programa5.0\problemas\cabec.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+
+1606728238 source:c:\users\lucas\downloads\programa5.0\problemas\main.c
+	"cabec.h"
+
+1606729386 source:c:\users\lucas\downloads\programa5.0\problemas\problema4.c
+	"cabec.h"
+
